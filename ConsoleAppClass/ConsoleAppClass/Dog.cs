@@ -36,7 +36,7 @@ namespace ConsoleAppClass
 
         // constanta constanta trebuie definita cand o declari;
         //    myDog._birthDate = DateTime.Now.AddDays(100);
-        // constanta  modificat la readonly drept urmare nu poate fi modificat din exterior
+        // constanta  modificat la readonly drept urmare nu poate fi modificat din exterior 
         //myDog.PI  nu fuctioneaza ca readonly
         // se acceseaza prin TYPE <dog.>
 
